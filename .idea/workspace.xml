@@ -7,7 +7,17 @@
     <list default="true" id="e71c3f18-5108-42a7-9953-0ee9021ba736" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/demoSelenium/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/demoSelenium/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/base/SeleniumBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/base/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/pages/MLPage/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/pages/SpotifyPage/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/pages/SpotifyPage/RegisterPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/test/TestML/TestsML.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/test/TestsSpotify/TestsSpotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/pom/utilities/ManejoEncodingUFT8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +87,10 @@
       <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12\app\src\test\java" />
+      <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12\app\src\test" />
       <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12" />
+      <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12\app" />
+      <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12\app\src\test\java" />
     </key>
   </component>
   <component name="RunManager" selected="Gradle.MLTest">
@@ -196,6 +208,19 @@
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DesafioBootCamp12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DesafioBootCamp12" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
