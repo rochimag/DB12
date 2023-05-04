@@ -5,78 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e71c3f18-5108-42a7-9953-0ee9021ba736" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/8.0.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_docker_java_docker_java_3_2_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_docker_java_docker_java_api_3_2_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_docker_java_docker_java_core_3_2_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_docker_java_docker_java_transport_3_2_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_docker_java_docker_java_transport_httpclient5_3_2_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_github_bonigarcia_webdrivermanager_5_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jna_jna_5_12_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_compress_1_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_12_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_client5_httpclient5_5_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_core5_httpcore5_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_core5_httpcore5_h2_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcpkix_jdk15on_1_64.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk15on_1_64.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_brotli_dec_0_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_141_59.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_2_0_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafioBootcamp12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/base/SeleniumBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/BrowserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/TestLocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/base/SeleniumBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/base/SeleniumBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/pages/MLPage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/pages/MLPage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/pages/SpotifyPage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/pages/SpotifyPage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/pages/SpotifyPage/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/pages/SpotifyPage/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/test/TestML/TestsML.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/test/TestML/TestsML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/test/TestsSpotify/TestsSpotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/test/TestsSpotify/TestsSpotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/utilities/ManejoEncodingUFT8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/utilities/ManejoEncodingUFT8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/loudelmar/BrowserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/loudelmar/MLTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/loudelmar/TestLocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/rmagnarelli/BT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/rmagnarelli/TareaSpotify.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +82,7 @@
       <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12\app\src\test\java" />
       <recent name="C:\Users\claudia.salgan\Documents\Proyectos IntelliJ IDEA\DesafioBootcamp12" />
     </key>
   </component>
