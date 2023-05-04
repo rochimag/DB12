@@ -6,21 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e71c3f18-5108-42a7-9953-0ee9021ba736" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/BrowserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/TestLocator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/base/SeleniumBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/base/SeleniumBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/pages/MLPage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/pages/MLPage/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/pages/SpotifyPage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/pages/SpotifyPage/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/pages/SpotifyPage/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/pages/SpotifyPage/RegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/test/TestML/TestsML.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/test/TestML/TestsML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/test/TestsSpotify/TestsSpotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/test/TestsSpotify/TestsSpotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/csalgan/pom/utilities/ManejoEncodingUFT8.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/pom/utilities/ManejoEncodingUFT8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/loudelmar/BrowserTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/loudelmar/MLTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/loudelmar/TestLocator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/rmagnarelli/BT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/rmagnarelli/TareaSpotify.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
